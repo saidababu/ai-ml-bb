@@ -1,10 +1,10 @@
 # Labs
 
-Please try this if not working:
+Please use this link to login:
 
 https://dashboard.eventengine.run/dashboard 
 
-3. Use hash provided by the instructor to proceed further with the account login.
+Use hash provided by the instructor to proceed further with the account login.
 
 ## License
 
