@@ -12,6 +12,12 @@ https://lakeformation.aworkshop.io/
 
 ### Lab Gotchas
 
+#### Optional Labs for home work
+
+EMR Workshop Lab 1 - EMR Cluster Creation: https://bit.ly/3nXhLjw
+EMR Workshop Lab 2 - Hive Pig & EMR: https://bit.ly/2SURl3V
+EMR Workshop Lab 3 - Spark-based ETL on EMR: https://bit.ly/3nY5s6W
+
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
