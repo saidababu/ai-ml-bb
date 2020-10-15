@@ -15,7 +15,9 @@ https://lakeformation.aworkshop.io/
 #### Optional Labs for home work
 
 EMR Workshop Lab 1 - EMR Cluster Creation: https://bit.ly/3nXhLjw
+
 EMR Workshop Lab 2 - Hive Pig & EMR: https://bit.ly/2SURl3V
+
 EMR Workshop Lab 3 - Spark-based ETL on EMR: https://bit.ly/3nY5s6W
 
 ## License
