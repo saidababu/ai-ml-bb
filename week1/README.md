@@ -12,7 +12,7 @@ https://lakeformation.aworkshop.io/
 
 #### Lab Gotchas
 
-#### Optional Labs for home work
+### Optional Labs for home work
 
 EMR Workshop Lab 1 - EMR Cluster Creation: https://bit.ly/3nXhLjw
 
