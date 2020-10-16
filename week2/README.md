@@ -13,7 +13,33 @@
     
     ![awscosnole2](../images/aws-account-login/openawsconsole.png)
     
+## Setting up the SageMaker Studio
 
+1. Open pen SageMaker Service from AWS Console
+
+2. Open SageMaker Studio
+
+    ![Open Studio](../images/studio-instance/click-studio.png)
+    
+3. Choose create new role
+
+    ![ima-role](../images/studio-instance/iam-role.png)
+    
+4. Choose default S3 permissions
+
+    ![s3 perm](../images/studio-instance/s3-perm.png)
+    
+4. Once the Studio is ready click "Open Studio"
+
+    ![open studio](../images/studio-instance/open-studio.png)
+    
+5. Open Terminal in Studio
+
+    ![studio terminal](../images/studio-instance/studio-terminal.png)
+    
+6. Clone the repository 
+
+    git clone https://github.com/saidababu/ai-ml-bb
 
 ## License
 
