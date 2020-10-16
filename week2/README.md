@@ -37,7 +37,35 @@
 
     ![studio terminal](../images/studio-instance/studio-terminal.png)
     
-6. Clone the repository 
+6. Clone the git repository 
+
+    git clone https://github.com/saidababu/ai-ml-bb
+    
+## Setting up the SageMaker Instance
+
+1. Open pen SageMaker Service from AWS Console.
+
+2. Select "Notebook Instances" on the left navigation and click "Create Notebook Instance".
+
+    ![Open Studio](../images/studio-instance/1.nb1.png)
+    
+3. Select ml.m5.xlarge instance type, choose "Create a new Role" and then "Create notebook Instance"
+
+    ![ima-role](../images/studio-instance/2.nb.png)
+    
+4. Choose default S3 permissions when this window pops up in the previous step.
+
+    ![s3 perm](../images/studio-instance/s3-perm.png)
+    
+4. Once the Notebook Instance is ready click "Open JupyterLab"
+
+    ![open studio](../images/studio-instance/3.nb.png)
+    
+5. Open Terminal in notebook instance
+
+    ![studio terminal](../images/studio-instance/4.nb.png)
+    
+6. Clone the git repository 
 
     git clone https://github.com/saidababu/ai-ml-bb
 
