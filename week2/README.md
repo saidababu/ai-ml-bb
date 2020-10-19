@@ -2,7 +2,7 @@
 
 ## Steps to login to AWS Account provided by the instructor.
 
-1. Click the [URL](https://dashboard.eventengine.run/dashboard)
+1. Click the [URL](https://dashboard.eventengine.run/login)
 2. Enter the AWS provided hash code in the text box and click "Accept Terms and Login"
 3. Select "Continue With Login with Amazon" in following screen 
     ![Amazon login](../images/aws-account-login/amazonretaillogin.png)
