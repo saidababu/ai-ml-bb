@@ -1,4 +1,4 @@
-Use Cases	Description
+## Use Cases
 
 [Banking Fraud](https://github.com/aws-samples/amazon-sagemaker-architecting-for-ml/blob/master/Writeups/Banking%20Fraud.md)
 
