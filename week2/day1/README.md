@@ -10,4 +10,4 @@
 
 Optional [PCA Lab](https://github.com/aws/amazon-sagemaker-examples/blob/f0a137dab6397d6e5649dc780f8278cfade4a7dc/introduction_to_amazon_algorithms/pca_mnist/pca_mnist.ipynb)
 
-    Principal Component Analysis, or PCA, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
+ Principal Component Analysis, or PCA, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
