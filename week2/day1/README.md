@@ -4,7 +4,7 @@
 
 ## HOME WORK:
 
- [Lab 3](ai-ml-bb/week2/day1/autopilot.ipynb)
+ [Lab 3](./autopilot.ipynb)
 
 * Additonal Challenge: After the first run and understanding the concepts, please modify the notebook such that it only creates the candidate generation notebook only. Then use the notebooks to run the actual training and tuning process. Hint: search for GenerateCandidateDefinitionsOnly [here](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html#SageMaker.Client.create_auto_ml_job)
 
