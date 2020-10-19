@@ -67,6 +67,8 @@
     
 6. Clone the git repository 
 
+    cd ~/SageMaker
+
     git clone https://github.com/saidababu/ai-ml-bb
 
 ## License
