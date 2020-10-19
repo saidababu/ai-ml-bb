@@ -1,6 +1,6 @@
 ## Insturctions:
 
-### We got a chance to run through the [Lab 1](./exploratory-analysis-and-feature-engineering.ipynb) and [Lab 2](./sagemaker-processing) during the session. But feel free to run through them again to understand any concepts that you did not understand during the session.
+#### We got a chance to run through the [Lab 1](./exploratory-analysis-and-feature-engineering.ipynb) and [Lab 2](./sagemaker-processing) during the session. But feel free to run through them again to understand any concepts that you did not understand during the session.
 
 ## HOME WORK:
 
