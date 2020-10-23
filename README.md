@@ -23,6 +23,11 @@ Useful links:
 ### MLops:
 
   * [awesome-mlops](https://github.com/visenger/awesome-mlops)
+  
+  
+### Other resources to learn ML and DL:
+
+* [Practical Deep Learning with Jypyter notebooks](https://d2l.ai/)
 
 
 
