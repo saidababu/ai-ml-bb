@@ -12,7 +12,11 @@ https://sagemaker-immersionday.workshop.aws/lab3.html
 ## Bring your own training-completed model with SageMaker by building a custom container
 In this session, you will build a custom container which contains a train-completed Pytorch model, and deploy it as a SageMaker endpoint. Your model is trained elsewhere like on premises perhaps, and you only want to use SageMaker to host the model. The session teaches how to do that. Pyorch/fast-ai model is provided for learning purposes. Once you know how to deploy a custom container with SageMaker, you can use the same approach to deploy the model trained with other machine learning framework.
 
-https://github.com/aws-samples/amazon-sagemaker-custom-container
+https://github.com/aws-samples/amazon-sagemaker-custom-container (original with issues in the Dockerfile)
+
+or
+
+https://github.com/saidababu/ai-ml-bb/tree/main/week2/day3/amazon-sagemaker-custom-container (Working version)
 
 
 ## Tensorflow in Script Mode
