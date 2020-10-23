@@ -10,3 +10,19 @@ Use hash provided by the instructor to proceed further with the account login.
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+Useful links:
+
+### Data Engineering
+
+### Feature Engineering
+
+### Algorithms
+
+### Model Training, Tuning and Deployment
+
+### MLops:
+
+[awesome-mlops](https://github.com/visenger/awesome-mlops)
+
+
+
