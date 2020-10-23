@@ -24,10 +24,18 @@ Useful links:
 
   * [awesome-mlops](https://github.com/visenger/awesome-mlops)
   
+### [AWS MLU](https://aws.amazon.com/training/learning-paths/machine-learning/)
+
+### [SageMaker Examples](https://github.com/aws/amazon-sagemaker-examples)
   
 ### Other resources to learn ML and DL:
 
 * [Practical Deep Learning with Jypyter notebooks](https://d2l.ai/)
+* [Fast.ai](https://www.fast.ai/)
+* [D2l SageMaker Notebooks](https://github.com/d2l-ai/d2l-en-sagemaker)
+* [DeepLearning.ai](https://www.deeplearning.ai/)
+
+
 
 
 
