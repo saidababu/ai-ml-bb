@@ -15,4 +15,8 @@ In this session, you will build a custom container which contains a train-comple
 https://github.com/aws-samples/amazon-sagemaker-custom-container
 
 
+## Tensorflow in Script Mode
+https://github.com/githubmg/sagemaker-tensorflow2
+
+
 
