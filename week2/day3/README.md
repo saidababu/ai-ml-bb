@@ -20,6 +20,10 @@ https://github.com/saidababu/ai-ml-bb/tree/main/week2/day3/amazon-sagemaker-cust
 
 
 ## Tensorflow in Script Mode
+https://github.com/saidababu/ai-ml-bb/tree/main/week2/day3/sagemaker-tensorflow2
+
+or
+
 https://github.com/githubmg/sagemaker-tensorflow2
 
 
