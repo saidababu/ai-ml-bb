@@ -3,7 +3,7 @@
 Amazon SageMaker provides every developer and data scientist with the ability to build, train, and deploy machine learning models quickly. Amazon SageMaker is a fully-managed service that covers the entire machine learning workflow to label and prepare your data, choose an algorithm, train the model, tune and optimize it for deployment, make predictions, and take action. Your models get to production faster with much less effort and lower cost.
 
 ## Bring your Own Model
-This lab helps you build your own custom container image with scikit-learn decision treee and then run it on Amazon SageMaker.
+This lab helps you build your own custom container image with scikit-learn decision tree and then run it on Amazon SageMaker.
 
 https://sagemaker-immersionday.workshop.aws/lab3.html
 
