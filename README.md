@@ -22,7 +22,7 @@ Useful links:
 
 ### MLops:
 
-*[awesome-mlops](https://github.com/visenger/awesome-mlops)
+  * [awesome-mlops](https://github.com/visenger/awesome-mlops)
 
 
 
