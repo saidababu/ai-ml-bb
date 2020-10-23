@@ -21,7 +21,14 @@ RUN apt-get clean
 ENV PYTHON_VERSION=3.6
 
 # using minoconda3
-RUN curl -o ~/miniconda.sh  https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh  && \
+#RUN curl -o ~/miniconda.sh  https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh  && \
+#     chmod +x ~/miniconda.sh && \
+#     ~/miniconda.sh -b -p /opt/conda && \
+#     rm ~/miniconda.sh && \
+#     /opt/conda/bin/conda install conda-build
+
+RUN wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh && \
+     mv Miniconda3-latest-Linux-x86_64.sh ~/miniconda.sh && \
      chmod +x ~/miniconda.sh && \
      ~/miniconda.sh -b -p /opt/conda && \
      rm ~/miniconda.sh && \
@@ -65,3 +72,6 @@ WORKDIR /opt/program
 RUN chmod 755 serve
 
 RUN ln -s /fastai-rumi/fastai fastai
+
+RUN pip install dataclasses
+RUN pip install pynvml
