@@ -27,6 +27,7 @@ ENV PYTHON_VERSION=3.6
 #     rm ~/miniconda.sh && \
 #     /opt/conda/bin/conda install conda-build
 
+# using minoconda3
 RUN wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh && \
      mv Miniconda3-latest-Linux-x86_64.sh ~/miniconda.sh && \
      chmod +x ~/miniconda.sh && \
