@@ -6,7 +6,7 @@
 - AWS Auto ScalingAWS GPU (P2 and P3) and CPU instances
 - Distributed Training with Parameter Server and Horovod
 
-## AWS Deep Learning Containers Setup with EC2, ECS, and EKS
+## AWS Deep Learning Containers Setup, Training, and Inference with EC2, ECS, and EKS
 
 ## Distributed Training
 http://dsjn0irf6z142.cloudfront.net/
