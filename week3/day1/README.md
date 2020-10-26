@@ -17,6 +17,7 @@ http://dsjn0irf6z142.cloudfront.net/
 https://aws.amazon.com/blogs/machine-learning/multi-gpu-and-distributed-training-using-horovod-in-amazon-sagemaker-pipe-mode/
 https://aws.amazon.com/blogs/machine-learning/reducing-training-time-with-apache-mxnet-and-horovod-on-amazon-sagemaker/
 https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/
+
 https://github.com/aws/amazon-sagemaker-examples/blob/master/sagemaker-python-sdk/keras_script_mode_pipe_mode_horovod/tensorflow_keras_CIFAR10.ipynb
 https://aws.amazon.com/blogs/opensource/kubeflow-amazon-eks/
 https://github.com/aws-samples/sagemaker-horovod-distributed-training
