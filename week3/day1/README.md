@@ -1,4 +1,4 @@
-# Week 3 - Machine Learning Implementation & Operations
+# Week 3 - Day 1 - Machine Learning Implementation & Operations
 - Build machine learning solutions for performance, availability, scalability, resiliency, and fault tolerance.
 - Amazon Deep Learning containers
 - Amazon SageMaker build your own containers
