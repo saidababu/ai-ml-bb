@@ -7,6 +7,7 @@
 - Distributed Training with Parameter Server and Horovod
 
 ## AWS Deep Learning Containers Setup, Training, and Inference with EC2, ECS, and EKS
+https://github.com/saidababu/ai-ml-bb/tree/main/week3/day1/ml-containers
 
 ## Distributed Training
 http://dsjn0irf6z142.cloudfront.net/
