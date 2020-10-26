@@ -15,3 +15,6 @@ http://dsjn0irf6z142.cloudfront.net/
 ## Sagemaker Image Classifer via Transfer Learning
 https://github.com/gabehollombe-aws
 
+## Sagemaker - Building Secure Environments
+https://sagemaker-workshop.com/security_for_sysops/best_practice.html
+
