@@ -5,6 +5,7 @@
 - AWS Deep Learning AMI (Amazon Machine Image)
 - AWS Auto ScalingAWS GPU (P2 and P3) and CPU instances
 - Distributed Training with Parameter Server and Horovod
+- Secure Environments and Best Practices
 
 ## AWS Deep Learning Containers Setup, Training, and Inference with EC2, ECS, and EKS
 https://github.com/saidababu/ai-ml-bb/tree/main/week3/day1/ml-containers
