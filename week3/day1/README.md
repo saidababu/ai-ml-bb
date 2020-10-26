@@ -13,7 +13,7 @@ https://github.com/saidababu/ai-ml-bb/tree/main/week3/day1/ml-containers
 ## Distributed Training
 http://dsjn0irf6z142.cloudfront.net/
 
-## Sagemaker Image Classifer via Transfer Learning
+## Sagemaker Image Classifier via Transfer Learning
 https://github.com/gabehollombe-aws
 
 ## Sagemaker - Building Secure Environments
