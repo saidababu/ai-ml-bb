@@ -86,7 +86,7 @@ Create a new security group "securitygroup-ecs-cluster" or update an existing se
 -- For MXNet inference, ports 80 and 8081 open to TCP traffic 
 -- For TensorFlow inference, ports 8501 and 8500 open to TCP traffic.
 
-Outbound Rules
+- Outbound Rules
 -- All traffic 0.0.0.0/0
 
 Your user has the IAM permissions to create a service role "ecsInstanceRole". 
