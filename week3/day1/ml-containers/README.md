@@ -118,7 +118,7 @@ Launch an Amazon EC2 instance with the Amazon ECS-optimized AMI and attach it to
 ```
 aws ec2 run-instances --image-id ami-0669eafef622afea1 \
                        --count 1 \
-                       --instance-type m5.4xlarge \
+                       --instance-type m5.2xlarge \
                        --key-name andre-DL \
                        --security-group-ids securitygroup-ecs-cluster \
                        --iam-instance-profile Name="ecsInstanceRole" \
