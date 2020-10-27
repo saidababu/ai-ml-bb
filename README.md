@@ -14,6 +14,9 @@ Useful links:
 
 ### Data Engineering
 
+  * [Implementation Guide – Data Lake on AWS] (https://aws.amazon.com/solutions/implementations/data-lake-solution/)
+ 
+
 ### Feature Engineering
 
 ### Algorithms
