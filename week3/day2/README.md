@@ -16,7 +16,7 @@ Goal: Recommend and implement the appropriate machine learning services and feat
 
 
 ## Sagemaker Image Classifier via Transfer Learning
-https://github.com/saidababu/ai-ml-bb/tree/main/week3/day2/Image%20Classifier (based on this repo https://github.com/gabehollombe-aws)
+https://github.com/saidababu/ai-ml-bb/tree/main/week3/day2/Image%20Classifier (based on this repo https://github.com/gabehollombe-aws). Here is an YouTube video on this workshop (https://www.youtube.com/watch?v=KCzgR7eQ3PY)
 
 
 ## Amazon Sagemaker DevOps
