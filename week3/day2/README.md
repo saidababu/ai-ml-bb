@@ -16,7 +16,8 @@ Goal: Recommend and implement the appropriate machine learning services and feat
 
 
 ## Sagemaker Image Classifier via Transfer Learning
-https://github.com/gabehollombe-aws
+https://github.com/saidababu/ai-ml-bb/tree/main/week3/day2/Image%20Classifier (based on this repo https://github.com/gabehollombe-aws)
+
 
 ## Amazon Sagemaker DevOps
 Applying DevOps practices to Machine Learning (ML) workloads is a fundamental practice to ensure models are deployed using a reliable and consistent process as well as establishing a strategy for retraining your models.
