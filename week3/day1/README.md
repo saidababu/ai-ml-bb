@@ -26,9 +26,6 @@ http://dsjn0irf6z142.cloudfront.net/
 - https://github.com/aws-samples/sagemaker-horovod-distributed-training-tfkeras-pipemode
 - https://github.com/horovod/horovod/tree/master/examples/tensorflow
 
-## Sagemaker Image Classifier via Transfer Learning
-https://github.com/gabehollombe-aws
-
 ## Sagemaker - Building Secure Environments
 https://sagemaker-workshop.com/security_for_sysops/best_practice.html
 
