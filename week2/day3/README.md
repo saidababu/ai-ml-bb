@@ -26,5 +26,6 @@ or
 
 https://github.com/githubmg/sagemaker-tensorflow2 (Original)
 
-
+## SageMaker with Tensorflow2
+In this Lab we will train an image classification model using Amazon SageMaker's Tensorflow training container in script mode. https://github.com/githubmg/sagemaker-tensorflow2
 
