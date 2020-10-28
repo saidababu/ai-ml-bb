@@ -11,7 +11,7 @@ Goal: Recommend and implement the appropriate machine learning services and feat
 - Amazon Personalize
 
 ## Machine Learning Implementation
-- Amazon Forecast:https://ml-immersionday.workshop.aws/ai-services/forecast.html
+- Amazon Forecast: https://ml-immersionday.workshop.aws/ai-services/forecast.html
 - Amazon Personalize: https://ml-immersionday.workshop.aws/ai-services/personalize.html
 
 
