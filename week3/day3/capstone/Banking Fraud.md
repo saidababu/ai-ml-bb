@@ -34,8 +34,7 @@ When analyzing the results of this, you'll need to create a separate endpoint fo
 ## Starter Code
 - https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_applying_machine_learning/xgboost_customer_churn/xgboost_customer_churn.ipynb 
     This is a great starter example for beginners! 
-- Starter-Code/Multithreaded_Ensemble_Modeling.ipynb
-    This is an advanced solution
+- Starter-Code/Multiprocess%20Ensembler.ipynb
 
 # References
 
