@@ -24,8 +24,7 @@ Useful links:
   * [Best Practices for Securing Amazon EMR](https://aws.amazon.com/blogs/big-data/best-practices-for-securing-amazon-emr/)
   * [Build an automatic data profiling and reporting solution with Amazon EMR, AWS Glue, and Amazon QuickSight](https://aws.amazon.com/blogs/big-data/build-an-automatic-data-profiling-and-reporting-solution-with-amazon-emr-aws-glue-and-amazon-quicksight/) 
   * [Ingest Excel data automatically into Amazon QuickSight](https://aws.amazon.com/blogs/big-data/ingest-excel-data-automatically-into-amazon-quicksight/) 
-  * [How Verizon Media Group migrated from on-premises Apache Hadoop and Spark to Amazon EMR](https://aws.amazon.com/blogs/big-data/how-verizon-media-group-migrated-from-on-         premises-apache-hadoop-and-spark-to-amazon-emr/)
-   
+     
 ### Feature Engineering
 
 ### Algorithms
