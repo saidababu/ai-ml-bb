@@ -16,7 +16,6 @@ Useful links:
 
   * [Implementation Guide – Data Lake on AWS](https://aws.amazon.com/solutions/implementations/data-lake-solution/)
   * [Analytics Lens AWS Well-Architected Framework](https://aws.amazon.com/blogs/big-data/build-an-aws-well-architected-environment-with-the-analytics-lens/)
-  * [How Verizon Media Group migrated from on-premises Apache Hadoop and Spark to Amazon EMR](https://aws.amazon.com/blogs/big-data/how-verizon-media-group-migrated-from-on-       premises-apache-hadoop-and-spark-to-amazon-emr/)
   * [Migrate and deploy your Apache Hive metastore on Amazon EMR](https://aws.amazon.com/blogs/big-data/migrate-and-deploy-your-apache-hive-metastore-on-amazon-emr/)
   * [Load data incrementally and optimized Parquet writer with AWS Glue](https://aws.amazon.com/blogs/big-data/load-data-incrementally-and-optimized-parquet-writer-with-aws-glue/)
   * [Best practices to scale Apache Spark jobs and partition data with AWS Glue](https://aws.amazon.com/blogs/big-data/best-practices-to-scale-apache-spark-jobs-and-partition-data-with-aws-glue/)
