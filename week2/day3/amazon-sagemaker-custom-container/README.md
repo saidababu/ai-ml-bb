@@ -92,7 +92,7 @@ It will take a few minutes for CloudFormation to complete provisioning of EC2 in
 1. Clone the github repo by running the following command:
 
     ``` 
-    > git clone https://github.com/aws-samples/amazon-sagemaker-custom-container.git
+    git clone https://github.com/aws-samples/amazon-sagemaker-custom-container.git
     ``` 
     
     ![c9OpenIDE](./images/c9OpenIDE.png)
