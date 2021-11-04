@@ -113,8 +113,8 @@ It will take a few minutes for CloudFormation to complete provisioning of EC2 in
     Alternatively, you can download a pre-built image and push it to ECR without have to build a new image from scratch.
     
     ```   
-    >chmod +x download_and_push.sh 
-    >./download_and_push.sh image_classification_recycle
+    chmod +x download_and_push.sh 
+    ./download_and_push.sh image_classification_recycle
     ```
     
     Either of these steps will take around 15-20 minutes.
