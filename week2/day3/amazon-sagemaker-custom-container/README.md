@@ -100,15 +100,15 @@ It will take a few minutes for CloudFormation to complete provisioning of EC2 in
     Before moving on, you want to increase the ESB volume size as building the Docker container for SageMaker deployment takes much space. You can accomplish that by [running resize.sh](https://docs.aws.amazon.com/cloud9/latest/user-guide/move-environment.html) script provided. 
 
     ``` 
-    >cd amazon-sagemaker-custom-container   
-    >sh resize.sh 100
+    cd amazon-sagemaker-custom-container   
+    sh resize.sh 100
     ``` 
 
     Run build_and_push.sh by running the following commands. This script will create an ECR repository, build the custom container image and push it to the repository. The argument of the script is the repository name. 
 
     ```   
-    >chmod +x build_and_push.sh
-    >./build_and_push.sh image_classification_recycle
+    chmod +x build_and_push.sh
+    ./build_and_push.sh image_classification_recycle
     ```
     Alternatively, you can download a pre-built image and push it to ECR without have to build a new image from scratch.
     
