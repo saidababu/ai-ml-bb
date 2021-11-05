@@ -97,7 +97,7 @@ It will take a few minutes for CloudFormation to complete provisioning of EC2 in
     
     ![c9OpenIDE](./images/c9OpenIDE.png)
 
-    Before moving on, you want to increase the ESB volume size as building the Docker container for SageMaker deployment takes much space. You can accomplish that by [running resize.sh](https://docs.aws.amazon.com/cloud9/latest/user-guide/move-environment.html) script provided. 
+    Before moving on, you want to increase the EBS volume size as building the Docker container for SageMaker deployment takes much space. You can accomplish that by [running resize.sh](https://docs.aws.amazon.com/cloud9/latest/user-guide/move-environment.html) script provided. 
 
     ``` 
     cd amazon-sagemaker-custom-container   
