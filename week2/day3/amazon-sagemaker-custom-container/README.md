@@ -110,14 +110,14 @@ It will take a few minutes for CloudFormation to complete provisioning of EC2 in
     chmod +x build_and_push.sh
     ./build_and_push.sh image_classification_recycle
     ```
-    Alternatively, you can download a pre-built image and push it to ECR without have to build a new image from scratch.
+    Alternatively, you can download a pre-built image and push it to ECR without having to build a new image from scratch.
     
     ```   
     chmod +x download_and_push.sh 
     ./download_and_push.sh image_classification_recycle
     ```
     
-    Either of these steps will take around 15-20 minutes.
+    Either of these steps will take around 15-20 minutes to complete.
 
 1. Run the following commands to copy the contents of data and model folders to your S3 bucket (the bucket has to be in the same region as the region you will be using SageMaker). The model folder contains the sample train-competed model to deploy. The data folder contains test images for making an inference on the model. 
 
