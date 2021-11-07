@@ -80,13 +80,13 @@ Amazon Elastic Container Service (Amazon ECS) allows you to easily run, scale, a
 Amazon ECS enables you to grow from a single container to thousands of containers across hundreds of instances without creating additional complexity in how you run your application. You can run anything: applications, batch jobs, or microservices. Amazon ECS abstracts away all the complexity of the infrastructure so you can focus on designing, building, and running containerized applications.
 
 ## Steps to setup ECS with CPU
-Create a new security group "securitygroup-ecs-cluster" or update an existing security group to have the ports open for your desired inference server.
+Create a new security group **"securitygroup-ecs-cluster"** or update an existing security group to have the ports open for your desired inference server.
 
-- Inbound Rules: For MXNet inference, ports 80 and 8081 open to TCP traffic. For TensorFlow inference, ports 8501 and 8500 open to TCP traffic.
+- Inbound Rules: For MXNet inference, ports 80 and 8081 open for TCP traffic. For TensorFlow inference, ports 8501 and 8500 open to TCP traffic.
 
 - Outbound Rules: All traffic 0.0.0.0/0
 
-Your user has the IAM permissions to create a service role "ecsInstanceRole". 
+Make sure your user has IAM permissions to create a service role "ecsInstanceRole". 
 
 
 Creating the cluster:
