@@ -95,12 +95,12 @@ Creating the cluster:
 aws ecs create-cluster --cluster-name ecs-ec2-training-inference --region us-east-1
 ```
 
-Create a file named my_script.txt with the following contents. Reference the same cluster name that you created in the previous step.
+Create a file named **my_script.txt** with the following contents. Reference the same cluster name that you created in the previous step.
 ```
 #!/bin/bash
 echo ECS_CLUSTER=ecs-ec2-training-inference >> /etc/ecs/ecs.config
 ```
-Create a file named my_mapping.txt with the following content, which changes the size of the root volume after the instance is created.
+Create a file named **my_mapping.txt** with the following content, which changes the size of the root volume after the instance is created.
 ```
 [
     {
@@ -128,7 +128,7 @@ aws ec2 run-instances --image-id ami-0669eafef622afea1 \
 ```
 
 ### Pytorch Training (CPU-based)
-Create a file named ecs-deep-learning-container-training-taskdef.json with the following contents.
+Create a file named **ecs-deep-learning-container-training-taskdef.json** with the following contents.
 ``` 
 {
    "requiresCompatibilities":[
