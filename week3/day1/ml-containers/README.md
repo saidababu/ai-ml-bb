@@ -114,7 +114,7 @@ Create a file named **my_mapping.txt** with the following content, which changes
 ### Amazon ECS-optimized AMIs
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-optimized_AMI.html
 
-Launch an Amazon EC2 instance with the Amazon ECS-optimized AMI and attach it to the cluster. Use the security group ID and key pair name that you created and replace them in the following command
+Launch an Amazon EC2 instance with the Amazon ECS-optimized AMI and attach it to the cluster. Use the security group (**securitygroup-ecs-cluster**) and key pair name(**andre-DL** in the example below, but it can be whatever one you created earlier) and replace them in the following command as needed
 ```
 aws ec2 run-instances --image-id ami-0669eafef622afea1 \
                        --count 1 \
